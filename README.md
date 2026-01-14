@@ -11,6 +11,19 @@ This project demonstrates a fully serverless web application built using AWS ser
 ## 📊 Flow Diagram
 <img width="1536" height="1024" alt="s3_lambda_apigateway" src="https://github.com/user-attachments/assets/56d0b88d-6e72-456c-b243-f510c072fbc0" />
 
+## 📊 Structure
+serverless-web-app/
+│
+├── frontend/
+│   └── index.html
+│
+├── backend/
+│   └── lambda-handler.js
+│
+├── architecture/
+│   └── flowchart.png
+│
+└── README.md
 
 ## 🔄 Application Flow
 1. User accesses the static website hosted on S3.
