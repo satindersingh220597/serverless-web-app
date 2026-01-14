@@ -9,7 +9,8 @@ This project demonstrates a fully serverless web application built using AWS ser
 - **Security**: CORS enabled
 
 ## 📊 Flow Diagram
-"C:\Users\Administrator\Desktop\Serverless web application using AWS S3, API Gateway, and Lambda\s3_lambda_apigateway.png"
+<img width="1536" height="1024" alt="s3_lambda_apigateway" src="https://github.com/user-attachments/assets/56d0b88d-6e72-456c-b243-f510c072fbc0" />
+
 
 ## 🔄 Application Flow
 1. User accesses the static website hosted on S3.
